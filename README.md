@@ -1,0 +1,1 @@
+# LLM_reconhecimento_padroes
