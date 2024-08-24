@@ -27,3 +27,8 @@ Matriz de Confusão: Gerar matrizes de confusão para cada classificador.
 6. Implementações Avançadas (Opcional*)
 Weight Decay: Implementar regularização com weight decay para o algoritmo de regressão logística.
 Otimização da Ordem de Classificação: Testar diferentes ordens de classificação dos dígitos para otimizar a acurácia.
+
+### Principais Referências
+
+[Logistic Regression in Python from Scratch | Simply Explained](https://www.youtube.com/watch?v=nzNp05AyBM8)
+[Regressão Logística – Algoritmos de Aprendizado de Máquinas](https://www.hashtagtreinamentos.com/regressao-logistica-ciencias-dados)
