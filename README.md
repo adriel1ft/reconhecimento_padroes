@@ -6,7 +6,7 @@
 - [@adriel1ft](https://github.com/adriel1ft)
 
 ## Etapas do Projeto
-1. Preparação dos Dados [feito]
+1. Preparação dos Dados 
 Redução de Dimensão: Reduzir a complexidade dos dados extraindo as características de intensidade e simetria de cada imagem.
 Geração de Novos Arquivos: Criar os arquivos train_redu.csv e test_redu.csv contendo as colunas: label, intensidade, simetria.
 
